@@ -6,14 +6,13 @@
     "url": "git+https://github.com/iamhosseindhv/notistack.git",
     "type": "git"
   },
-  "main": "src/index.js",
   "dependencies": {
     "react": "16.4.2",
     "react-dom": "16.4.2",
     "react-redux": "5.0.7",
     "react-scripts": "1.1.4",
     "redux": "latest",
-    "notistack": "latest",
+    "notistack": "../..",
     "@material-ui/core": "3.4.0"
   },
   "devDependencies": {},
